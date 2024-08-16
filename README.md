@@ -44,8 +44,8 @@
 ### Installation:
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/kadena-blockchain-explorer.git
-cd kadena-blockchain-explorer
+git clone [https://github.com/yourusername/kadena-blockchain-explorer.git](https://github.com/Tanner-Ray-Martin/Chainweb-Explorer.git)
+cd Chainweb-Explorer
 ```
 
 Install the required packages:
