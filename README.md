@@ -14,7 +14,7 @@
 - **Difficulty**
 - **Most Active Tokens** on the Kadena Blockchain (including price/volume)
 - **All Applicable Information** (supply, max, etc)
-- **Twitter Feed**
+- **[Twitter Feed](https://twitter.com/kadena_io)**
 - **Links to all Wallets**
 - **Links to Discord/Telegram**
 - **Direct Links to Whitepapers**
