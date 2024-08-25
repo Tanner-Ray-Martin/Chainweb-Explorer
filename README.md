@@ -1,6 +1,6 @@
 ### README.md
 
-# Kadena Blockchain Explorer
+# [Kadena.io](https://www.kadena.io/) Chainweb Explorer
 
 ## Community Requested Functionality
 
