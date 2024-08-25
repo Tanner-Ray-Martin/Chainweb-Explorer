@@ -36,6 +36,9 @@
 - **Number of Addresses**
 - **Number of Transactions**
 
+### NFT Stats
+# ![Alt text](https://pbs.twimg.com/profile_images/1570456414845280257/SSVMRMb6_400x400.jpg)
+
 ## Project Setup
 
 ### Requirements:
