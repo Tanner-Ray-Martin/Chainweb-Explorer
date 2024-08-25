@@ -1,6 +1,7 @@
 ### README.md
 
-# [Kadena.io](https://www.kadena.io/) Chainweb Explorer
+# ![Alt text](https://www.kadena.io/_next/static/media/logo_sm.76a6235e.svg) [Kadena.io](https://www.kadena.io/) Chainweb Explorer
+
 
 ## "kda-ogs" Discord Community Requested Functionality
 
@@ -16,7 +17,11 @@
 - **All Applicable Information** (supply, max, etc)
 - **[Twitter Feed](https://twitter.com/kadena_io)**
 - **Links to all Wallets**
-- **Links to Discord/Telegram**
+- **[Discord](https://discord.com/invite/kadena)**
+- **[YouTube](https://www.youtube.com/kadenablockchain)**
+- **[LinkedIn](https://www.linkedin.com/company/kadena-llc)**
+- **[GitHub](https://github.com/kadena-io)**
+- **[Reddit](https://www.reddit.com/r/kadena/)**
 - **Direct Links to Whitepapers**
 - **AMA with an AI**
 
