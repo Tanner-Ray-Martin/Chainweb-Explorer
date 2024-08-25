@@ -2,7 +2,7 @@
 
 # [Kadena.io](https://www.kadena.io/) Chainweb Explorer
 
-## Community Requested Functionality
+## "kda-ogs" Discord Community Requested Functionality
 
 ### Summary Screen/Page:
 - **Price** (including historical data)
